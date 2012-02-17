@@ -10,7 +10,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Poke
-tagline: meh
+tagline: full of meh
 author :
   name : Daniel Tralamazza
   email : tralamazza@gmail.com
